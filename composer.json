@@ -10,6 +10,11 @@
         }
     ],
     "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "testiteapackage\\math\\": "src/"
+        }
+    },
     "require": {
         "guzzlehttp/guzzle": "^7.2"
     }
