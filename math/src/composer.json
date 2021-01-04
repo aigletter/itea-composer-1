@@ -1,0 +1,13 @@
+{
+  "name": "k1ngp1n/composer",
+  "description": "math",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "K1ngp1nDev",
+      "email": "s.kulitskiy@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}

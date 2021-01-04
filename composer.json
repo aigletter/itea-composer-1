@@ -1,7 +1,7 @@
 {
     "name": "k1ngp1n/composer",
-    "description": "math",
-    "type": "library",
+    "description": "itea-project",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "testiteapackage\\math\\": "src/"
+            "src\\": "math/src"
         }
     },
     "require": {
