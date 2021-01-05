@@ -12,10 +12,16 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "src\\": "math/src"
+            "src\\": "k1ngp1n/math/src"
         }
     },
     "require": {
-        "guzzlehttp/guzzle": "^7.2"
-    }
+        "guzzlehttp/guzzle": "^7.2",
+        "k1ngp1n/math": "*"
+
+    },
+    "repositories": [{
+        "type": "git",
+        "url": "https://github.com/K1ngp1nDev/itea-package-math"
+    }]
 }

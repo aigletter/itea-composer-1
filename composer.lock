@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "49ff852f84d8f6314b98c5eb315e11d3",
+    "content-hash": "073cbc49ccf392bd325b021d01528a67",
     "packages": [
         {
             "name": "guzzlehttp/guzzle",
@@ -238,6 +238,28 @@
                 "source": "https://github.com/guzzle/psr7/tree/1.x"
             },
             "time": "2020-12-08T11:45:39+00:00"
+        },
+        {
+            "name": "k1ngp1n/math",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/K1ngp1nDev/itea-package-math",
+                "reference": "7e610f420595085419593a6b763ce10bdd769251"
+            },
+            "default-branch": true,
+            "type": "library",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "K1ngp1nDev",
+                    "email": "s.kulitskiy@gmail.com"
+                }
+            ],
+            "description": "math",
+            "time": "2021-01-04T20:07:12+00:00"
         },
         {
             "name": "psr/http-client",
