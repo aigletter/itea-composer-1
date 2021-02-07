@@ -10,15 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "autoload": {
-        "psr-4": {
-            "src\\": "k1ngp1n/math/src"
-        }
-    },
     "require": {
         "guzzlehttp/guzzle": "^7.2",
         "k1ngp1n/math": "*"
-
     },
     "repositories": [{
         "type": "git",
