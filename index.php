@@ -3,7 +3,7 @@
 use src\Multiple;
 
 require 'vendor/autoload.php';
-require 'vendor/k1ngp1n/math/Multiple.php';
+
 //use GuzzleHttp\Client;
 //
 //$client = new GuzzleHttp\Client();
